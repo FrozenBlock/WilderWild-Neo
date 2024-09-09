@@ -24,3 +24,5 @@ runs
 run-data
 
 repo
+libs
+/libs/frozenlib-1.0.0.jar
